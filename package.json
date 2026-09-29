@@ -1,0 +1,11 @@
+{
+  "name": "task-api",
+  "version": "1.0.0",
+  "description": "Task Management API built as a structured 3-tier monolith",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
